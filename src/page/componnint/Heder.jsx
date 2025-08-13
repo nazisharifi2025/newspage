@@ -6,7 +6,7 @@ export default function Heder(){
                 <li className="hover:underline font-serif transition-normal transition-all duration-300"><a href="#">Home</a></li>
                 <li className="hover:underline font-serif transition-normal transition-all duration-300"><a href="#">About</a></li>
                 <li className="hover:underline font-serif transition-normal transition-all duration-300"><a href="#">Contuct us</a></li>
-                <li className="hover:underline font-serif transition-normal transition-all duration-300"><a href="#">Service</a></li>
+                <li className="hover:underline font-serif transition-normal transition-all duration-300"><a href="#">News</a></li>
             </ul>
              <div className="flex space-x-2">
                 <button className="font-bold text-center py-2 px-4 bg-gray-200 rounded-md hover:bg-gray-100 text-white">Newsletter</button>
