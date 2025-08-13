@@ -8,7 +8,11 @@ export default function Heder(){
                 <li><a href="#">Contuct us</a></li>
                 <li><a href="#">Service</a></li>
             </ul>
-            
+             <div className="flex space-x-2">
+                <button className="font-bold text-center py-2 px-4 bg-gray-200 text-white">Newsletter</button>
+                <button className="font-bold text-center py-2 px-4 bg-blue-200 text-white">ّFollow Us</button>
+             </div>
+
         </div>
     );
 }
