@@ -1,6 +1,6 @@
 export default function Heder(){
     return(
-        <div className="w-full h-24 flex justify-between items-center py-4 px-6">
+        <div className="w-full h-24 flex justify-between items-center py-4 static px-6">
             <img src="public/img/logo.webp" className="h-[60%]" alt="" />
             <ul className="flex space-x-6 font-bold text-xl">
                 <li className="hover:underline font-serif transition-normal transition-all duration-300"><a href="#">Home</a></li>
