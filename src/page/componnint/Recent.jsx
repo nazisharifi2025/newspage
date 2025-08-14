@@ -21,7 +21,7 @@ export default function Recent(){
         },
     ]
     return(
-        <div className="h-[530px] w-full rounded-sm flex flex-col justify-between px-6 py-2 my-5">
+        <div className="h-screen  w-full rounded-sm flex flex-col justify-between px-6 py-12 my-5">
            <h1 className="font-bold text-3xl font-serif pt-3 ">Recent Articles</h1>
            <h1 className=" text-xl font-serif py-3 w-[50%]">Discover the latest updates, trends, and insights in the world of technology. Stay informed with our fresh articles</h1>
             <div className="flex w-full h-full font-serif justify-between">

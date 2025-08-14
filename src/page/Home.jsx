@@ -1,6 +1,7 @@
 import Heder from "./componnint/Heder";
 import Hero from "./componnint/Hero";
 import Recent from "./componnint/Recent";
+import Trending from "./componnint/Trending";
 
 export default function Home(){
     return(
@@ -8,6 +9,7 @@ export default function Home(){
             <Heder/>
             <Hero/>
             <Recent/>
+            <Trending/>
         </div>
     );
 }
