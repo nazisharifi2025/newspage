@@ -1,3 +1,4 @@
+import Cta from "./componnint/Cta";
 import Heder from "./componnint/Heder";
 import Hero from "./componnint/Hero";
 import Recent from "./componnint/Recent";
@@ -10,6 +11,7 @@ export default function Home(){
             <Hero/>
             <Recent/>
             <Trending/>
+            <Cta/>
         </div>
     );
 }
